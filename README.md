@@ -20,12 +20,6 @@ This project is a serverless image processing pipeline built using AWS Lambda an
 
 ---
 
-## 🧱 Architecture
-
-![Architecture](architecture.png)
-
----
-
 ## 🔥 Features
 
 - Automatic image resizing
