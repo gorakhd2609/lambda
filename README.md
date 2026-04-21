@@ -52,7 +52,6 @@ This project is a serverless image processing pipeline built using AWS Lambda an
 Upload an image to the source bucket (`myf1`) and check the resized output in `myf1-resize`.
 
 ---
-
 ## 📸 Output
 
 Original Image → Resized Image (100x100)
